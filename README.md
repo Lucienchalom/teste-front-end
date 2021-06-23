@@ -10,7 +10,7 @@ Segue abaixo as instruções para a execução do teste.
 - O link do repositório deverá ser enviado para o e-mail robson@agenciaeconverse.com.br com o título **Teste Vaga FrontEnd**
 
 ## Especificações Técnicas
-- Desenvolver a pagina em html conforme o layout nesse [Link](http://econverse.digital/teste-front-end/junior/ninja-som/layout/TESTE-PRATICO-NINJA-SOM.xd).
+- Desenvolver a pagina em html conforme o layout nesse [Link](http://econverse.digital/teste-front-end/junior/ninja-som/layout/TESTE-PRATICO-NINJA-SOM.xd). Ou o [Figma](https://www.figma.com/file/ZS2gkmiQYvwXzRkfThkBIO/Teste-para-Desenvolvedores-Copy?node-id=23%3A9).
 - Montar a [Vitrine](http://econverse.digital/teste-front-end/junior/ninja-som/layout/vitrine-produtos.png) de produtos consumindo as informações dos produtos em json atraves desse [Link](http://econverse.digital/teste-front-end/junior/ninja-som/lista-produtos/produtos.json) com uso de jQuery, React.js, Vue.js, ou Angular.
 - Desenvolver a interação ao clicar em um produto conforme esse [VÍDEO](http://econverse.digital/teste-front-end/junior/ninja-som/layout/TESTE-PRATICO-NINJA-SOM-interacao.mp4). A interação consiste em abrir um modal com as principais informações do produto presente no arquivo [JSON](http://econverse.digital/teste-front-end/junior/ninja-som/lista-produtos/produtos.json) conforme o produto que clicar.
 - Desenvolver os Htmls semânticos.
